@@ -67,7 +67,7 @@ _Add more and more Books later_
 * SQL Server Books :
  * [Apress Accelerated SQL Server 2008 By Robert E. Walters](https://github.com/abbashosseini/usefull-programming-book-/blob/master/SQL%20Server/Apress.Accelerated.SQL.Server.2008.May.2008.pdf)
  
-*Scala Books :
+* Scala Books :
  * [Scala For Java developers By Thomas Alexandre](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Scala/scala%20for%20java%20developers.pdf)
  
 * Ubuntu Books :
