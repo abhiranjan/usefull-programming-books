@@ -54,4 +54,23 @@ _Add more and more Books later_
  * [JavaScript and CSS Development with jQuery By Richard York](https://github.com/abbashosseini/usefull-programming-book-/blob/master/JavaScript/JavaScript%20and%20CSS%20Development%20with%20jQuery.pdf) 
  * [Javascript Bible , 5th Ed (1743 Pages) By Danny Goodman with Michael Morrison](https://github.com/abbashosseini/usefull-programming-book-/blob/master/JavaScript/Wiley%20-%20Javascript%20Bible%20%2C%205th%20Ed%20-%201743%20Pages%20-%202004%20.pdf)
  
+* MySQL Books :
+ * [MySQL CookBook By Paul DuBois](https://github.com/abbashosseini/usefull-programming-book-/blob/master/MySQL/MySQL_CookBook.pdf) 
+ 
+* PHP Books :
+ * [O'Reilly PHP Cookbook 2nd Edition By Adam Trachtenberg and David Sklar](https://github.com/abbashosseini/usefull-programming-book-/blob/master/PHP/Oreilly.PHP.Cookbook.2nd.Edition.May.2009.pdf)
+ * [Sams Advanced PHP Programming By George Schlossnagle](https://github.com/abbashosseini/usefull-programming-book-/blob/master/PHP/Sams_Advanced_PHP_Programming.pdf)
+ 
+* Python Books :
+ * [O'Reilly Learning Python 4th Edition By Mark Lutz](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Python/Oreilly.Learning.Python.4th.Edition.Sep.2009.pdf) 
+ 
+* SQL Server Books :
+ * [Apress Accelerated SQL Server 2008 By Robert E. Walters](https://github.com/abbashosseini/usefull-programming-book-/blob/master/SQL%20Server/Apress.Accelerated.SQL.Server.2008.May.2008.pdf)
+ 
+*Scala Books :
+ * [Scala For Java developers By Thomas Alexandre](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Scala/scala%20for%20java%20developers.pdf)
+ 
+* Ubuntu Books :
+ * [Apress Beginning Ubuntu Linux Fifth Edition By Emilio Raggi, Keir Thomas, Trevor Parsons, Andy Channelle, Sander van Vugt](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Ubuntu/Beginning%20Ubuntu%20Linux%20Fifth%20Edition.pdf)
+ 
 * 
