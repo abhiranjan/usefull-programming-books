@@ -78,5 +78,5 @@ _Add more and more Books later_
 * Ubuntu Books :
  * [Apress Beginning Ubuntu Linux Fifth Edition By Emilio Raggi, Keir Thomas, Trevor Parsons, Andy Channelle, Sander van Vugt](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Ubuntu/Beginning%20Ubuntu%20Linux%20Fifth%20Edition.pdf)
  
-* HardWare(Memory, CPU ... ) Books :
+* HardWare(Memory, CPU .... ) Books :
  * [Giant Handbook of Computer Projects By Books Inc ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Giant%20Handbook%20of%20Computer%20Projects.pdf)
