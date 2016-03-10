@@ -48,4 +48,10 @@ _Add more and more Books later_
  * [java cookbook 3rd edition By Ian F. Darwin ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/java.cookbook.3rd.edition.jul.2014.pdf)
  * [javafx8 2nd edition By Carl P. Dea, Mark Heckler, Gerrit Grunwald, Dr. José Pereda, Sean M Phillips, David Coffin](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/javafx%208%2C%202nd%20edition.pdf)
  * [learn javafx 8 By Kishori Sharan, Jeff Friesen, David Coffin , Wallace Jackson, Massimo Nardone, Tri Phan](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/learn%20javafx%208.pdf)
- * [java 8 Programming 3rd edition](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/pro%20java%208%20programming%2C%203rd%20edition.pdf)
+ * [java 8 Programming 3rd edition By Brett Spell](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/pro%20java%208%20programming%2C%203rd%20edition.pdf)
+
+* JavaScript Books :
+ * [JavaScript and CSS Development with jQuery By Richard York](https://github.com/abbashosseini/usefull-programming-book-/blob/master/JavaScript/JavaScript%20and%20CSS%20Development%20with%20jQuery.pdf) 
+ * [Wiley - Javascript Bible , 5th Ed (1743 Pages) By Danny Goodman with Michael Morrison](https://github.com/abbashosseini/usefull-programming-book-/blob/master/JavaScript/Wiley%20-%20Javascript%20Bible%20%2C%205th%20Ed%20(1743%20Pages)%20-%202004%20-%20(By%20.pdf)
+ 
+* 
