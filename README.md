@@ -42,13 +42,10 @@ _Add more and more Books later_
  * [BUILD YOUR OWN WEB SITE THE RIGHT WAY USING HTML & CSS BY IAN LLOYD](https://github.com/abbashosseini/usefull-programming-book-/blob/master/HTML%26%26CSS/WebSiteCSS.pdf)
  
 * JAVA Books :
- *[Java - Concurrency in practice By Brian Goetz](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Java%20-%20Concurrency%20in%20practice.pdf) 
- *[Java Threads and the Concurrency Utilities By Jeff Friesen ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Java%20Threads%20and%20the%20Concurrency%20Utilities.pdf)
- *[Java 7 Concurrency Cookbook 2012 By Javier Fernández González](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Packt.Publishing.Java.7.Concurrency.Cookbook.2012.pdf)
- *[java cookbook 3rd edition By Ian F. Darwin ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/java.cookbook.3rd.edition.jul.2014.pdf)
- *[javafx8 2nd edition By Carl P. Dea, Mark Heckler, Gerrit Grunwald, Dr. José Pereda, Sean M Phillips, David Coffin](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/javafx%208%2C%202nd%20edition.pdf)
- *[learn javafx 8 By Kishori Sharan, Jeff Friesen, David Coffin , Wallace Jackson, Massimo Nardone, Tri Phan](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/learn%20javafx%208.pdf)
- *[java 8 Programming 3rd edition](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/pro%20java%208%20programming%2C%203rd%20edition.pdf)
-
-
-
+ * [Java - Concurrency in practice By Brian Goetz](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Java%20-%20Concurrency%20in%20practice.pdf) 
+ * [Java Threads and the Concurrency Utilities By Jeff Friesen ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Java%20Threads%20and%20the%20Concurrency%20Utilities.pdf)
+ * [Java 7 Concurrency Cookbook 2012 By Javier Fernández González](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/Packt.Publishing.Java.7.Concurrency.Cookbook.2012.pdf)
+ * [java cookbook 3rd edition By Ian F. Darwin ](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/java.cookbook.3rd.edition.jul.2014.pdf)
+ * [javafx8 2nd edition By Carl P. Dea, Mark Heckler, Gerrit Grunwald, Dr. José Pereda, Sean M Phillips, David Coffin](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/javafx%208%2C%202nd%20edition.pdf)
+ * [learn javafx 8 By Kishori Sharan, Jeff Friesen, David Coffin , Wallace Jackson, Massimo Nardone, Tri Phan](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/learn%20javafx%208.pdf)
+ * [java 8 Programming 3rd edition](https://github.com/abbashosseini/usefull-programming-book-/blob/master/Java/pro%20java%208%20programming%2C%203rd%20edition.pdf)
