@@ -1,7 +1,5 @@
 ## UseFULL Programming Books available Here Freely :books:
 
-> don't know you want more book or not _Star this_ if you want more Books
-<hr/>
 
 >Most usefull programming Book Collectioin 
 
